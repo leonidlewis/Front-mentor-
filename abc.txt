@@ -1,2 +1,0 @@
-Another git exmaple
-And this is commit
