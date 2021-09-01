@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Retro';
+  src: local('Retro'), url(./fonts/retro.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Pixelmix';
+  src: local('Pixelmix'), url(./fonts/pixelmix.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Upheav';
+  src: local('Pixelmix'), url(./fonts/upheavtt.ttf) format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
